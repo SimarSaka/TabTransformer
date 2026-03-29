@@ -84,7 +84,7 @@ The TabTransformer shows stable learning behaviour across epochs.
   - **Validation Loss:** ~6.6
 - The small gap between the two curves suggests **good generalisation** and limited overfitting.
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig1.jpeg)
   
 
 **Interpretation:**  
@@ -103,7 +103,7 @@ The confusion matrices below are shown as **row-wise percentages of the true cla
 - **Very High Risk (5):** classified correctly in **95.65%** of cases
 - **Moderate Risk (3):** often confused with **High Risk (4)**
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig2.jpeg)
 
 **Insight:**  
 The model performs strongly for extreme risk levels, while middle categories show overlap due to similar behavioural patterns.
@@ -115,7 +115,7 @@ The model performs strongly for extreme risk levels, while middle categories sho
 - **Low Risk (2):** classified correctly in **73.21%** of cases
 - **Moderate Risk (3)** and **High Risk (4)** show substantial confusion
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig3.jpeg)
 
 **Insight:**  
 The circulating phase appears to be one of the most complex stages, where distinctions between moderate and high perceived risk are harder to capture.
@@ -127,8 +127,8 @@ The circulating phase appears to be one of the most complex stages, where distin
 - **Very High Risk (5):** classified correctly in **81.82%** of cases
 - **Low**, **Moderate**, and **High** classes show greater dispersion across neighbouring categories
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
-
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig4.jpeg)
+  
 **Insight:**  
 Exit manoeuvres may involve abrupt decisions, lane shifts, and mixed driver behaviour, making this stage harder to predict consistently.
 
@@ -140,7 +140,7 @@ Exit manoeuvres may involve abrupt decisions, lane shifts, and mixed driver beha
 - **High Risk (4):** **63.83%**
 - Moderate confusion exists among **Low**, **Moderate**, and **High** classes
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig5.jpeg)
 
 **Insight:**  
 The model performs relatively well in single-lane scenarios, likely because these environments are structurally simpler and behaviour is less variable.
@@ -153,7 +153,7 @@ The model performs relatively well in single-lane scenarios, likely because thes
 - **High Risk (4):** **67.94%**
 - **Very High Risk (5):** **100%**
 
-![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig6.jpeg)
 
 **Insight:**  
 Performance remains strong in double-lane settings, though lower-risk classes still exhibit some confusion due to increased manoeuvring complexity.
@@ -167,8 +167,8 @@ Performance remains strong in double-lane settings, though lower-risk classes st
 - **Very High Risk (5):** **68.57%**
 - **High Risk (4):** only **26.67%** correctly classified
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
-
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig7.jpeg)
+  
 **Insight:**  
 Multi-lane roundabouts are the most behaviourally complex, leading to greater class overlap and lower model confidence, especially in higher-risk categories.
 
@@ -181,7 +181,7 @@ Multi-lane roundabouts are the most behaviourally complex, leading to greater cl
 - **Very High Risk (5):** **81.82%**
 - **Very Low Risk (1)** is fully shifted toward **Low Risk (2)**
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig8.jpeg)
 
 **Insight:**  
 As traffic increases, perceived risk becomes less cleanly separable, especially in the middle classes. This suggests that traffic density introduces non-linear and context-dependent effects.
@@ -194,7 +194,7 @@ As traffic increases, perceived risk becomes less cleanly separable, especially 
 - **Very High Risk (5):** entirely predicted as **High Risk (4)**
 - **Low** and **Moderate** opinions show notable mixing
 
-  ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+  ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/fig9.jpeg)
   
 
 ##  Feature Interaction & Attention Analysis
@@ -290,8 +290,8 @@ As lane complexity increases, **feature importance becomes more distributed**, r
   - **Vehicle category (~0.22)**
   - **Occupation (~0.21)**
  
-    ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
-    ![image alt](https://github.com/SimarSaka/Industrial_Training/blob/main/WhatsApp%20Image%202025-12-04%20at%201.43.04%20AM.jpeg?raw=true)
+    ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/heatmap1.png)
+    ![image alt](https://github.com/SimarSaka/TabTransformer/blob/main/heatmap2.png)
 
 **Insight:**  
 Traffic risk perception is influenced by **user profile + experience level**, not just infrastructure.
