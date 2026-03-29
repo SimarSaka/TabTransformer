@@ -1,0 +1,193 @@
+If vehicles A and B arrive at their current positions simultaneously, which vehicle should yield?
+Vehicle A-1
+Vehicle B-2
+Both vehicle A and Vehicle B-3
+None of them should yield-4
+If you are trying to take a right turn through a roundabout, which route ( route A or route B) in the image represents correct behavior?
+Route A-1
+Route B-2
+Both Route A and Route B are correct-3
+Both Route A and Route B are incorrect-4
+While approaching a roundabout, before entering, it is advisable to :
+Increase speed-1
+Decrease the speed-2
+Keep the same speed-3
+Stop-4
+During the maneuver on the circulatory road of the roundabout, you will:
+Increase speed-1
+Keep the same speed-2
+Decrease the speed-3
+During the exit maneuver from the roundabout, you will:
+Increase speed-1
+Keep the same speed-2
+Decrease the speed-3
+While driving through a roundabout, if you miss the exit you wanted, what should you do?
+Take any other exit-1
+Move reverse direction to take the exit-2
+Continue around the circle until you get back to the correct exit-3
+Other-4
+Should you use your turn signal while waiting at the yield line of a roundabout?
+yes, left turn indicator light should be used-1
+yes, right turn indicator light should be used-2
+yes, left, straight and right turn indicator light should be used depending on direction of exit to be taken-3
+no, use of turn signals or indicator lights are not required.-4
+Should you use your left turn signal when exiting the roundabout?
+No-1
+Yes-2
+Maybe-3
+If you are waiting at the yield line of a roundabout and an emergency vehicle arrives at one of the other approaches, what should you do?
+Continue to enter the circular roadway-1
+Enter the circular roadway and then stop to give path to emergency vehicle to pass-2
+Wait at the yield line until the emergency vehicle clears the roundabout-3
+Enter the roundabout, increase speed and exit the roundabout before the emergency vehicle-4
+If you are driving in a roundabout when an emergency vehicle approaches, what should you do?
+Exit at the next available exit and pull over once away from the roundabout-1
+Continue driving in the usual way-2
+Stop your vehicle wherever you are (i.e. in the circular road) to give path for emergency vehicle-3
+Move in reverse direction to create space for emergency vehicle to pass-4
+Where should vehicles wait for pedestrian and bicycle traffic when encountered?
+Vehicles should not wait (Pedestrian and bicyclists should move away from crosswalk when an approaching vehicle is observed)-1
+At the stop lines in front of the crosswalk locations-2
+Vehicles should wait at the yield lines only after crossing the crosswalk at very low speed-3
+What is the purpose of the ring-shaped paved area of a roundabout which is shown in the figure and image?
+For parking vehicles-1
+For the usage of pedestrians-2
+For the usage of bicyclists-3
+For enhancing the aesthetics-4
+For increasing the visibility-5
+Extra space for future development-6
+For easy turning of large vehicles and emergency vehicles-7
+The chance of facing an accident in a roundabout is more with:
+Pedestrians-1
+Bicyclists-2
+Motorcyclists-3
+Other car driver-4
+Have you faced an accident/near-accident that was avoided anyhow or witnessed an accident in a roundabout?
+Yes-1
+No-0
+Location of the accident/unsafe situation at the roundabout:
+Approach roads before entering-1
+Merging area of road between approaching road and circular road-2
+Within circular roadway-3
+Diverging area of road between exiting road and circular road-4
+Other-5
+Type of the accident:
+Single vehicle crash-1
+Vehicle to vehicle (front to side)-2
+Side swipe crash-3
+Rear end crash-4
+Other-5
+What was the consequence of the accident?
+Death-1
+Serious injury ( Hospitalization was done)-2
+Minor injury (First Aid etc.)-3
+Vehicle damaged only (No injury)-4
+Other-5
+Day of the accident:
+Weekdays-1
+Weekends-2
+Time of the accident: 10pm-8am:1;12-4pm:2;
+6 - 8 am-1
+8- 10 am-2
+10am to 12 pm-3
+12pm to 3pm-4
+3pm to 5pm-5
+5pm to 7pm-6
+7pm to 10pm-7
+10pm to 2am-8
+2am to 6am-9
+Why do you think the accident occurred?
+overspeeding and violating the speed limit, failing to yield to pedestrians and bicyclists, driver was distracted or intoxicated-1
+abrupt stopping of vehicles both at the entrance and within the circle-2
+abrupt stopping of vehicles both at the entrance and within the circle, driver did not use turning indicator lights-3
+abrupt stopping of vehicles both at the entrance and within the circle, driving in the incorrect lane and abrupt lane change to esxit the roundabout, driver did not use turning indicator lights-4
+abrupt stopping of vehicles both at the entrance and within the circle,failing to yield to circulating traffic-5
+abrupt stopping of vehicles both at the entrance and within the circle,failing to yield to circulating traffic, failing to yield to pedestrians and bicyclists-6
+abrupt stopping of vehicles both at the entrance and within the circle, failing to yield to pedestrians and bicyclists-7
+Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the pedestrians and bicyclists;Driving in the incorrect lane and abrupt lane change to exit the roundabout-8
+Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the pedestrians and bicyclists;Driving in the incorrect lane and abrupt lane change to exit the roundabout;Driver was distracted or intoxicated;Driver did not use turning indicator lights-9
+Driver did not use turning indicator lights-10
+Driver was distracted or intoxicated-11
+Driver was distracted or intoxicated;Driver did not use turning indicator lights-12
+Driving in the incorrect lane and abrupt lane change to exit the roundabout-13
+Driving in the incorrect lane and abrupt lane change to exit the roundabout;Driver did not use turning indicator lights-14
+Failing to yield to the circulating traffic-15
+Failing to yield to the circulating traffic;Driver did not use turning indicator lights-16
+Failing to yield to the circulating traffic;Driving in the incorrect lane and abrupt lane change to exit the roundabout-17
+Failing to yield to the circulating traffic;Failing to yield to the pedestrians and bicyclists-18
+Failing to yield to the circulating traffic;Failing to yield to the pedestrians and bicyclists;Driving in the incorrect lane and abrupt lane change to exit the roundabout-19
+Failing to yield to the pedestrians and bicyclists-20
+Failing to yield to the pedestrians and bicyclists;Driver was distracted or intoxicated-21
+Overspeeding and violating the speed limit-22
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle-23
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle;Driver was distracted or intoxicated;Driver did not use turning indicator lights-24
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the circulating traffic;Driver was distracted or intoxicated-25
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the circulating traffic;Failing to yield to the pedestrians and bicyclists;Driver was distracted or intoxicated;Driver did not use turning indicator lights-26
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the circulating traffic;Failing to yield to the pedestrians and bicyclists;Driving in the incorrect lane and abrupt lane change to exit the roundabout;Driver was distracted or intoxicated;Driver did not use turning indicator lights-27
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the pedestrians and bicyclists-28
+Overspeeding and violating the speed limit;Abrupt stopping of vehicles both at the entrance as well as within the circle;Failing to yield to the pedestrians and bicyclists;Driver was distracted or intoxicated-29
+Overspeeding and violating the speed limit;Driver was distracted or intoxicated-30
+Overspeeding and violating the speed limit;Driving in the incorrect lane and abrupt lane change to exit the roundabout-31
+Overspeeding and violating the speed limit;Driving in the incorrect lane and abrupt lane change to exit the roundabout;Driver was distracted or intoxicated-32
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic-33
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic;Driver did not use turning indicator lights-34
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic;Driver was distracted or intoxicated-35
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic;Driver was distracted or intoxicated;Driver did not use turning indicator lights-36
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic;Driving in the incorrect lane and abrupt lane change to exit the roundabout-37
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic;Driving in the incorrect lane and abrupt lane change to exit the roundabout;Driver was distracted or intoxicated-38
+Overspeeding and violating the speed limit;Failing to yield to the circulating traffic;Failing to yield to the pedestrians and bicyclists;Driving in the incorrect lane and abrupt lane change to exit the roundabout-39
+Overspeeding and violating the speed limit;Failing to yield to the pedestrians and bicyclists-40
+
+Are "GIVE WAY" signs present at the entrance roadway before entering the roundabout?
+No-0
+Yes-1
+Are "Keep Left" signs present at the entrance roadway before entering the roundabout?
+No-0
+Yes-1
+Are "Roundabout" signs present at the entrance roadway before entering the roundabout?
+No-0
+Yes-1
+Are Speed Breakers present at the entrance roadway before entering the roundabout?
+No-0
+Yes-1
+Are "Speed Breaker" signs present at the entrance roadway before entering the roundabout?
+No-0
+Yes-1
+Are Chevron signs and Chevron markings present inside the roundabout?
+No-0
+Yes-1
+Are Object Hazard signs present in the roundabout?
+No-0
+Yes-1
+Are "GIVE WAY" lines present at the entrance roadway before entering the roundabout?
+No-0
+Yes-1
+Are 'lane directional arrow' markings present in the roundabout?
+No-0
+Yes-1
+Gender:
+Male-1
+Female-2
+Prefer not to say-3
+What is the vehicle category mostly used by you?
+Large vehicles (Bus, Truck etc.)-1
+Cars-2
+Autorickshaw/ E-rickshaw-3
+Motorcycle-4
+Bicycle and walking-5
+Mostly I walk-6 (cross)
+Do you have a valid driving license?
+No-0
+Yes-1
+What is your occupation?
+Public Employee-1-4
+Private Employee-2-4
+Self Employed-3-3
+Unemployed-4-2
+Retired-5-1
+Student-6-5
+What is your education level?
+upto Matriculation (class 10)-1
+Intermediate (class 12)-2
+Graduate-3
+Post Graduate-4
