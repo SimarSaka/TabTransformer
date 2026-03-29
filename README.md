@@ -90,5 +90,4 @@ Example scale:
 ---
 
 
-git clone https://github.com/your-username/roundabout-risk-analysis.git
-cd roundabout-risk-analysis
+
